@@ -1,8 +1,8 @@
 {
-  "name": "curl/curl",
-  "description": "cURL class for PHP",
+  "name": "bjz/curl",
+  "description": "cURL class for PHP .change function setOpt to return $this for chan operation",
   "keywords": ["dot", "curl"],
-  "homepage": "https://github.com/php-mod/curl",
+  "homepage": "https://github.com/baijunzhen/curl",
   "type": "library",
   "license": "MIT",
   "authors": [
