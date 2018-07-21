@@ -495,7 +495,8 @@ class Curl
      */
     public function setOpt($option, $value)
     {
-        return curl_setopt($this->curl, $option, $value);
+        curl_setopt($this->curl, $option, $value);
+        return $this;
     }
     
      /**
